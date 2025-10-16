@@ -26,9 +26,12 @@ Install Ubuntu Server on VMware Workstation and access it remotely from the host
 ### 4. Install Ubuntu Server
 - Start the VM.  
 - Follow the installation prompts to set language, keyboard, and user credentials.
+- 
 
 ### 5. Get the VM IP Address
 - After installation, log in to Ubuntu Server.  
 - Run the command:
   ```bash
   ip addr
+  This line was added remotely from GitHub.
+
